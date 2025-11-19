@@ -1,10 +1,11 @@
 {
-  
-  "name": "Hydra-Calma",
+  "name": "ColorfulPlasma",
   "mood": "calm",
-  "colors": "#FF69B4",
+  "primaryColor": "#FF69B4",
+
+
   "font": "Segoe UI",
   "sound": "Patience_HD_003.mp4",
   "video": "6-take_breaks_001.webm"
-
 }
+
