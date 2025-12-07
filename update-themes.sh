@@ -12,17 +12,21 @@ fi
 BRANCH=$(git branch --show-current)
 echo "[HYDRA] 🔍 Branch atual: $BRANCH"
 
-# Salvar alterações locais (se houver)
+# 1. Salvar alterações locais (se houver)
 git add .
 git commit -m "Atualização local antes de sincronizar" || echo "[HYDRA] ⚠️ Nenhuma alteração local para commitar"
 
-# Atualizar fork com upstream e origin
+# 2. Atualizar com upstream
 git fetch upstream
-git rebase upstream/$BRANCH
+git merge upstream/$BRANCH || echo "[HYDRA] ⚠️ Nenhuma atualização de upstream"
+
+# 3. Atualizar com origin
 git pull --rebase origin $BRANCH
+
+# 4. Enviar para origin
 git push origin $BRANCH
 
 echo "[HYDRA] ✅ Temas sincronizados com sucesso: upstream → local → origin"
 
-# Chamar PowerShell para copiar e commitar em HydraLife
+# 5. Chamar PowerShell para copiar e commitar em HydraLife
 powershell.exe -ExecutionPolicy Bypass -File ./updateplasma.ps1
