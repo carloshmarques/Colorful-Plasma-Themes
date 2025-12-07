@@ -20,10 +20,11 @@ Write-Host "[HYDRA] Copiando temas de $SOURCE → $DEST..."
 robocopy $SOURCE $DEST /E /XD .git
 Write-Host "[HYDRA] HydraLife atualizado com os novos temas em $DEST"
 
-# --- Criar log de robocopy no fork ---
+# --- Criar log de robocopy no fork (sem copiar outra vez) ---
 $LOGFILE = "$DESTLOG\robocopy_log_$DATESTAMP_$TIMESTAMP.txt"
-robocopy $LOGFILE
+robocopy $SOURCE $DEST /L /E /XD .git /LOG:$LOGFILE
 Write-Host "[HYDRA] Log de robocopy criado em $LOGFILE"
+
 # ============================================================
 # 1. Commit/push no submódulo HydraLife (Colorful-Plasma-Themes)
 # ============================================================
@@ -38,7 +39,7 @@ Write-Host "[HYDRA] Branch atual do submódulo: $BRANCH"
 git pull origin $BRANCH
 git push origin $BRANCH
 
-Write-Host "[HYDRA]  Submódulo atualizado a partir do fork"
+Write-Host "[HYDRA] Submódulo atualizado a partir do fork"
 
 # ============================================================
 # 2. Commit/push no repositório HydraLife (master)
