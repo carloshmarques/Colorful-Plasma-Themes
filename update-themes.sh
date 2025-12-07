@@ -22,3 +22,10 @@ echo "[HYDRA] Temas sincronizados com sucesso: upstream → local → origin"
 
 # Chamar PowerShell para copiar e commitar em HydraLife
 powershell.exe -ExecutionPolicy Bypass -File ./updateplasma.ps1
+
+echo "[HYDRA] Atualizando referência do submódulo em HydraLife..."
+cd "$HOME/Documents/GitHub/master/HydraLife"
+git add LifeCicles/Assets/themes/Colorful-Plasma-Themes
+git commit -m "[HYDRA] Referência do submódulo atualizada em $(date +%Y-%m-%d) $(date +%H-%M)"
+git push origin master
+
