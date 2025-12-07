@@ -1,0 +1,11 @@
+# Ignorar scripts locais e logs
+update-themes.sh
+updateplasma.ps1
+sync-to-hydralife.sh
+robocopy_log.txt
+
+# Diretório de logs
+logs/
+
+
+
