@@ -11,6 +11,9 @@ fi
 
 BRANCH=$(git branch --show-current)
 echo "[HYDRA] 🔍 Branch atual: $BRANCH"
+# Salvar alterações locais antes de atualizar
+git add .
+git commit -m "Salvar alterações locais antes de merge/rebase"
 
 # Atualizar fork com upstream e origin
 git fetch upstream
