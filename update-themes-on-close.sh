@@ -20,5 +20,4 @@ git push origin $BRANCH
 
 echo "[HYDRA] ✅ Temas sincronizados com sucesso: upstream → local → origin"
 
-# Chamar PowerShell para copiar e commitar em HydraLife
-powershell.exe -ExecutionPolicy Bypass -File ./updateplasma.ps1
+

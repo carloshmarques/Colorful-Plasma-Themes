@@ -3,15 +3,11 @@
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : 7 de dezembro de 2025 11:08:22
+  Started : 7 de dezembro de 2025 20:34:29
    Source : C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
      Dest : C:\Users\carlo\Documents\GitHub\master\HydraLife\LifeCicles\Assets\Themes\Colorful-Plasma-Themes\
 
     Files : *.*
-	    
-Exc Files : sync-to-hydralife.sh
-	    update-themes.sh
-	    updateplasma.ps1
 	    
  Exc Dirs : .git
 	    
@@ -19,188 +15,8 @@ Exc Files : sync-to-hydralife.sh
 
 ------------------------------------------------------------------------------
 
-	                   7	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
-	    Newer     		       0	robocopy_log.txt100%  
-	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Color Schemes\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global\contents\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global\contents\previews\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global\contents\splash\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global\contents\splash\images\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global-6\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global-6\contents\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global-6\contents\layots\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global-6\contents\previews\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global-6\contents\splash\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global-6\contents\splash\images\
-	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\
-	                 266	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\assets\
-	                   5	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\gtk-2.0\
-	                   6	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\gtk-2.0\apps\
-	                 168	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\gtk-2.0\assets\
-	                  11	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\gtk-2.0\widgets\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\gtk-3.0\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful GTK Themes\gtk-4.0\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\
-	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\16x16\
-	                   5	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\16x16\emblems\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\22x22\
-	                   5	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\22x22\emblems\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\8x8\
-	                   5	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\8x8\emblems\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\
-	                   7	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\12\
-	                2156	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\16\
-	                2319	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\22\
-	                2322	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\24\
-	                   6	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\48\
-	                   4	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\64\
-	                 461	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\actions\symbolic\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\animations\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\animations\16\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\animations\22\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\
-	                   8	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\128\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\16\
-	                   4	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\22\
-	                   4	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\24\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\24@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\24@3x\
-	                  44	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\256\
-	                  32	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\48\
-	                  50	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\applets\64\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\
-	                  26	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\16\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\16@2x\
-	                  33	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\22\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\22@2x\
-	                  32	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\24\
-	                 619	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\32\
-	                1645	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\48\
-	  *EXTRA File 		   16660	 com.mattjakeman.ExtensionManager.svg
-	                  12	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\apps\64\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\categories\
-	                  31	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\categories\22\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\categories\24\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\categories\24@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\categories\24@3x\
-	                  17	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\categories\32\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\16\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\16@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\16@3x\
-	                  45	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\22\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\22@2x\
-	                  47	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\22@3x\
-	                  45	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\24\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\24@2x\
-	                  47	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\64\
-	                   6	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\devices\symbolic\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\
-	                  40	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\16\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\16@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\16@3x\
-	                  28	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\22\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\22@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\22@3x\
-	                  28	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\24\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\24@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\24@3x\
-	                  27	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\8\
-	                  12	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emblems\symbolic\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emotes\
-	                  34	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\emotes\22\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\
-	                 501	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\16\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\16@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\16@3x\
-	                 501	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\22\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\22@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\22@3x\
-	                 497	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\24\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\24@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\24@3x\
-	                 966	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\32\
-	                 985	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\mimetypes\64\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\
-	                 202	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\16\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\16@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\16@3x\
-	                 187	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\22\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\22@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\22@3x\
-	                  57	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\24\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\24@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\24@3x\
-	                 115	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\32\
-	                 116	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\64\
-	                  19	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\places\symbolic\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\preferences\
-	                 122	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\preferences\22\
-	                 232	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\preferences\32\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\
-	                 118	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\16\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\16@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\16@3x\
-	                 287	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\22\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\22@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\22@3x\
-	                 178	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\24\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\24@2x\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\24@3x\
-	                  30	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\32\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\48\
-	                  11	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\64\
-	                  79	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Icons Themes\Colorful-Dark-Icons\status\symbolic\
-	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Konsole Color Schemes\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Kvantum Themes\
-	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Kvantum Themes\Colorful-Dark-Kvantum\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\
-	                   4	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\dialogs\
-	                 100	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\icons\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\opaque\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\opaque\dialogs\
-	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\opaque\widgets\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\solid\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\solid\dialogs\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\solid\widgets\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\translucent\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\translucent\dialogs\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\translucent\widgets\
-	                  42	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Plasma Themes\Colorful-Dark-Plasma\widgets\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SDDM Themes\
-	                  10	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SDDM Themes\Colorful-SDDM\
-	                  10	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SDDM Themes\Colorful-SDDM\components\
-	                   5	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SDDM Themes\Colorful-SDDM\components\artwork\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash\contents\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash\contents\previews\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash\contents\splash\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash\contents\splash\images\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash-6\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash-6\contents\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash-6\contents\previews\
-	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash-6\contents\splash\
-	                   3	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful SplashScreen\Colorful-Splash-6\contents\splash\images\
-	                   5	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Wallpapers\
-	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Window Decorations\
-	                  12	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Window Decorations\Colorful-Blur-Dark-Aurorae\
-	                  13	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Window Decorations\Colorful-Blur-Dark-Aurorae-6\
-	                  12	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Window Decorations\Colorful-Dark-Aurorae\
-	                  13	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Window Decorations\Colorful-Dark-Aurorae-6\
-	                  12	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Window Decorations\Colorful-Dark-Color-Aurorae\
-	                  13	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Window Decorations\Colorful-Dark-Color-Aurorae-6\
-
-------------------------------------------------------------------------------
-
-               Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :       174         0       174         0         0         0
-   Files :     16222         1     16221         0         0         2
-   Bytes :   98.23 m         0   98.23 m         0         0    16.8 k
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : 7 de dezembro de 2025 11:08:22
-
+	                   9	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
+	    Older     		       0	.gitignore
+	    Older     		   35823	LICENSE100%  
+	    Older     		    1446	README.md100%  
+	    Newer     		       0	robocopy_log.txt
