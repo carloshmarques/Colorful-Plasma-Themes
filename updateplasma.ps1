@@ -24,20 +24,22 @@ Write-Host "[HYDRA] HydraLife atualizado com os novos temas em $DEST"
 $LOGFILE = "$DESTLOG\robocopy_log_$DATESTAMP_$TIMESTAMP.txt"
 robocopy $SOURCE $DEST /L /E /XD .git /LOG:$LOGFILE
 Write-Host "[HYDRA] Log de robocopy criado em $LOGFILE"
-
 # ============================================================
 # 1. Commit/push no submódulo HydraLife (Colorful-Plasma-Themes)
 # ============================================================
 Set-Location $DEST
-git add .
-git commit -m "Atualização de temas Colorful-Plasma em $DATESTAMP $TIMESTAMP"
 
 $BRANCH = git branch --show-current
 Write-Host "[HYDRA] Branch atual do submódulo: $BRANCH"
 
-# Só atualizar a partir do fork (origin)
+# Primeiro atualizar a partir do fork (origin)
 git pull --rebase origin $BRANCH
 
+# Depois adicionar e commitar as tuas alterações
+git add .
+git commit -m "Atualização de temas Colorful-Plasma em $DATESTAMP $TIMESTAMP"
+
+# Finalmente enviar para o fork
 git push origin $BRANCH
 
 Write-Host "[HYDRA] Submódulo atualizado a partir do fork"
