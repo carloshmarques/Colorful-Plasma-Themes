@@ -7,7 +7,7 @@ $TIMESTAMP = Get-Date -Format "HH-mm"
 
 # --- Caminhos principais ---
 $SOURCE   = "$env:USERPROFILE\Documents\GitHub\main\Colorful-Plasma-Themes"
-$DEST     = "$env:USERPROFILE\Documents\GitHub\master\HydraLife\LifeCicles\Assets\Themes\Colorful-Plasma-Themes"
+$DEST     = "$env:USERPROFILE\Documents\GitHub\master\HydraLife\LifeCicles\Assets\themes\Colorful-Plasma-Themes"
 $DESTLOG  = "$SOURCE\Logs"
 
 # --- Garantir diretório de logs ---
