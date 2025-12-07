@@ -18,12 +18,14 @@ git commit -m "Atualização cerimonial dos temas em $DATESTAMP $TIMESTAMP"
 git push origin main
 Write-Host "[HYDRA] Commit realizado no repositório Colorful-Plasma-Themes"
 
-# 2. Commit/push no submódulo HydraLife
-Set-Location $DEST
-git add .
-git commit -m "Atualização de temas Colorful-Plasma em $DATESTAMP $TIMESTAMP"
-git push origin main
-Write-Host "[HYDRA] Commit realizado no submódulo Colorful-Plasma-Themes"
+# 2. Atualizar referência do submódulo HydraLife
+Set-Location "$env:USERPROFILE\Documents\GitHub\master\HydraLife"
+git add LifeCicles/Assets/Themes/Colorful-Plasma-Themes
+git commit -m "Referência do submódulo Colorful-Plasma-Themes atualizada em $DATESTAMP $TIMESTAMP"
+git push origin master
+Write-Host "[HYDRA] Referência do submódulo atualizada no repositório HydraLife"
+
+
 
 # 3. Commit/push no repositório HydraLife
 Set-Location "$env:USERPROFILE\Documents\GitHub\master\HydraLife"
