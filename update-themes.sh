@@ -13,6 +13,7 @@ BRANCH=$(git branch --show-current)
 echo "[HYDRA]  Branch atual: $BRANCH"
 
 git fetch upstream
+git checkout main
 git merge upstream/$BRANCH
 git push origin $BRANCH
 
