@@ -36,7 +36,8 @@ $BRANCH = git branch --show-current
 Write-Host "[HYDRA] Branch atual do submódulo: $BRANCH"
 
 # Só atualizar a partir do fork (origin)
-git pull origin $BRANCH
+git pull --rebase origin $BRANCH
+
 git push origin $BRANCH
 
 Write-Host "[HYDRA] Submódulo atualizado a partir do fork"
