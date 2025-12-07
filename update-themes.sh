@@ -16,12 +16,12 @@ echo "[HYDRA] 🔍 Branch atual: $BRANCH"
 git add .
 git commit --amend -C HEAD || echo "[HYDRA] ⚠️ Nenhuma alteração local para commitar"
 
-# 2. Atualizar com upstream
+# 2. Atualizar com origin primeiro (para evitar non-fast-forward)
+git pull --rebase origin $BRANCH || echo "[HYDRA] ⚠️ Nenhuma atualização de origin"
+
+# 3. Atualizar com upstream
 git fetch upstream
 git rebase upstream/$BRANCH || echo "[HYDRA] ⚠️ Nenhuma atualização de upstream"
-
-# 3. Atualizar com origin
-git pull --rebase origin $BRANCH
 
 # 4. Push para origin
 git push origin $BRANCH
