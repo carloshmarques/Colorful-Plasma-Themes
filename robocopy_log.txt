@@ -3,13 +3,14 @@
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : 7 de dezembro de 2025 10:55:28
+  Started : 7 de dezembro de 2025 10:57:06
    Source : C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
      Dest : C:\Users\carlo\Documents\GitHub\master\HydraLife\LifeCicles\Assets\Themes\Colorful-Plasma-Themes\
 
     Files : *.*
 	    
-Exc Files : update-themes.sh
+Exc Files : sync-to-hydralife.sh
+	    update-themes.sh
 	    updateplasma.ps1
 	    
  Exc Dirs : .git
@@ -19,7 +20,6 @@ Exc Files : update-themes.sh
 ------------------------------------------------------------------------------
 
 	                   7	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
-	  *EXTRA File 		     582	sync-to-hydralife.sh
 	    Newer     		       0	robocopy_log.txt100%  
 	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Color Schemes\
 	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\
@@ -202,5 +202,5 @@ Exc Files : update-themes.sh
    Files :     16222         1     16221         0         0         2
    Bytes :   98.23 m         0   98.23 m         0         0    16.8 k
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : 7 de dezembro de 2025 10:55:28
+   Ended : 7 de dezembro de 2025 10:57:06
 
