@@ -7,7 +7,8 @@ $SOURCE = "$env:USERPROFILE\Documents\GitHub\main\Colorful-Plasma-Themes"
 $DEST   = "$env:USERPROFILE\Documents\GitHub\master\HydraLife\LifeCicles\Assets\Themes\Colorful-Plasma-Themes"
 
 Write-Host "[HYDRA] Copiando temas de $SOURCE para $DEST..."
-robocopy $SOURCE $DEST /E /XD .git sync-to-hydralife.sh update-themes.sh  updateplasma.ps1 /LOG:$SOURCE\robocopy_log.txt
+robocopy $SOURCE $DEST /E /XD .git /XF update-themes.sh updateplasma.ps1 /LOG:$SOURCE\robocopy_log.txt
+
 Write-Host "[HYDRA] HydraLife atualizado com os novos temas em $DEST"
 
 # 1. Commit/push no repositório Colorful-Plasma-Themes (main)

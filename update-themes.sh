@@ -14,8 +14,9 @@ echo "[HYDRA]  Branch atual: $BRANCH"
 
 git fetch upstream
 git checkout main
-git merge upstream/$BRANCH
-git push origin $BRANCH
+git merge upstream/main
+git push origin main
+
 
 echo "[HYDRA] Temas sincronizados com sucesso: upstream → local → origin"
 
