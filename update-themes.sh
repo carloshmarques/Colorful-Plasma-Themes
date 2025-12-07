@@ -14,9 +14,10 @@ echo "[HYDRA] 🔍 Branch atual: $BRANCH"
 
 # Atualizar fork com upstream e origin
 git fetch upstream
-git merge upstream/$BRANCH
-git pull origin $BRANCH
+git rebase upstream/$BRANCH
+git pull --rebase origin $BRANCH
 git push origin $BRANCH
+
 
 echo "[HYDRA] ✅ Temas sincronizados com sucesso: upstream → local → origin"
 
