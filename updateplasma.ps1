@@ -22,7 +22,7 @@ Write-Host "[HYDRA] HydraLife atualizado com os novos temas em $DEST"
 
 # --- Criar log de robocopy no fork ---
 $LOGFILE = "$DESTLOG\robocopy_log_$DATESTAMP_$TIMESTAMP.txt"
-robocopy $SOURCE $DEST /E /XD .git /LOG:$LOGFILE
+robocopy $LOGFILE
 Write-Host "[HYDRA] Log de robocopy criado em $LOGFILE"
 # ============================================================
 # 1. Commit/push no submódulo HydraLife (Colorful-Plasma-Themes)
