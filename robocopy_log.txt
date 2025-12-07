@@ -3,13 +3,16 @@
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : 6 de dezembro de 2025 21:49:26
+  Started : 7 de dezembro de 2025 10:02:41
    Source : C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
      Dest : C:\Users\carlo\Documents\GitHub\master\HydraLife\LifeCicles\Assets\Themes\Colorful-Plasma-Themes\
 
     Files : *.*
 	    
  Exc Dirs : .git
+	    sync-to-hydralife.sh
+	    update-themes.sh
+	    updateplasma.ps1
 	    
   Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
 
@@ -17,6 +20,7 @@
 
 	                   8	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
 	    Newer     		       0	robocopy_log.txt100%  
+	    Newer     		    1491	updateplasma.ps1100%  
 	                   2	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Color Schemes\
 	                   0	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\
 	                   1	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\Colorful Global Themes\Colorful-Dark-Global\
@@ -195,8 +199,12 @@
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :       174         0       174         0         0         0
-   Files :     16223         1     16222         0         0         1
-   Bytes :   98.23 m         0   98.23 m         0         0    16.2 k
+   Files :     16223         2     16221         0         0         1
+   Bytes :   98.23 m     1.4 k   98.23 m         0         0    16.2 k
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : 6 de dezembro de 2025 21:49:26
+
+
+   Speed :             298ÿ200 Bytes/sec.
+   Speed :              17,063 MegaBytes/min.
+   Ended : 7 de dezembro de 2025 10:02:42
 
