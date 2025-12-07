@@ -6,4 +6,3 @@ updateplasma.ps1
 # Ignorar logs
 robocopy_log.txt
 logs/
-
