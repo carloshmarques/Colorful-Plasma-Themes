@@ -9,15 +9,19 @@ if [ ! -d ".git" ]; then
   exit 1
 fi
 
+#Verificar nome da branch atual
 BRANCH=$(git branch --show-current)
+
 echo "[HYDRA] 🔍 Branch atual: $BRANCH"
 
-# Atualizar fork com upstream e origin
+# Sincronizar com upstream
 git fetch upstream
 git merge upstream/$BRANCH
-git pull origin $BRANCH
+
+# Push para o fork
 git push origin $BRANCH
 
 echo "[HYDRA] ✅ Temas sincronizados com sucesso: upstream → local → origin"
 
-
+# 5. Chamar PowerShell para copiar e commitar em HydraLife
+# powershell.exe -ExecutionPolicy Bypass -File ./updateplasma.ps1
