@@ -1,10 +1,11 @@
 # Ignorar scripts locais
 update-themes.sh
 updateplasma.ps1
+update-themes-on-close.sh
 
 # Ignorar logs
+robocopy_log.txt
 Logs/
-
 
 
 
