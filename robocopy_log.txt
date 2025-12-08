@@ -1,22 +1,0 @@
-
--------------------------------------------------------------------------------
-   ROBOCOPY     ::     Robust File Copy for Windows                              
--------------------------------------------------------------------------------
-
-  Started : 7 de dezembro de 2025 20:34:29
-   Source : C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
-     Dest : C:\Users\carlo\Documents\GitHub\master\HydraLife\LifeCicles\Assets\Themes\Colorful-Plasma-Themes\
-
-    Files : *.*
-	    
- Exc Dirs : .git
-	    
-  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
-
-------------------------------------------------------------------------------
-
-	                   9	C:\Users\carlo\Documents\GitHub\main\Colorful-Plasma-Themes\
-	    Older     		       0	.gitignore
-	    Older     		   35823	LICENSE100%  
-	    Older     		    1446	README.md100%  
-	    Newer     		       0	robocopy_log.txt
