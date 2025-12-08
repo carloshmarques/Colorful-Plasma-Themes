@@ -1,2 +1,5 @@
 # ignora scripts locais
 update-themes-on-close.sh
+
+## ignore app files that are required for local development
+ ThemeManifest.json
